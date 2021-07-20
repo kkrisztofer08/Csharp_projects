@@ -1,0 +1,45 @@
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\Színház_jegyfoglaló_app.exe.config
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\Színház_jegyfoglaló_app.exe
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\Színház_jegyfoglaló_app.pdb
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csprojAssemblyReference.cache
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Form1.resources
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Properties.Resources.resources
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csproj.GenerateResource.cache
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csproj.CoreCompileInputs.cache
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.exe
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.pdb
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Regisztracio.resources
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.dll
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.dll
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.xml
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.xml
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csproj.CopyComplete
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Rendszergazda.resources
+C:\Users\Kőrösi PC\Desktop\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.User.resources
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\Színház_jegyfoglaló_app.exe.config
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\Színház_jegyfoglaló_app.exe
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\Színház_jegyfoglaló_app.pdb
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.dll
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.dll
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.xml
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\bin\Debug\System.Data.SQLite.xml
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csprojAssemblyReference.cache
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Form1.resources
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Properties.Resources.resources
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Regisztracio.resources
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Rendszergazda.resources
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.User.resources
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csproj.GenerateResource.cache
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csproj.CoreCompileInputs.cache
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.csproj.CopyComplete
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.exe
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.pdb
+C:\Users\lerry\Desktop\Adataim\Prog.info tananyagok\3.félév\C# programozás\Színházjegyfoglaló_app\Színház_jegyfoglaló_app\Színház_jegyfoglaló_app\obj\Debug\Színház_jegyfoglaló_app.Jelmagyarázat.resources
