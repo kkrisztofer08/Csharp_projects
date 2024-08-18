@@ -1,0 +1,5 @@
+D:\C# devs\File Explorer\FileExplorer\bin\Release\net8.0-windows\publish\FileExplorer.exe
+D:\C# devs\File Explorer\FileExplorer\bin\Release\net8.0-windows\publish\FileExplorer.dll
+D:\C# devs\File Explorer\FileExplorer\bin\Release\net8.0-windows\publish\FileExplorer.deps.json
+D:\C# devs\File Explorer\FileExplorer\bin\Release\net8.0-windows\publish\FileExplorer.runtimeconfig.json
+D:\C# devs\File Explorer\FileExplorer\bin\Release\net8.0-windows\publish\FileExplorer.pdb
