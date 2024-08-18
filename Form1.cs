@@ -40,7 +40,7 @@ namespace FileExplorer
             {
                 if (isFile)
                 {
-                    tempFilePath = filePath + "D:" + currentlySelectedItemName;
+                    tempFilePath = filePath + "C:" + currentlySelectedItemName;
                     FileInfo fileDetails = new FileInfo(tempFilePath);
                     fileNameLabel.Text = fileDetails.Name;
                     fileTypeLabel.Text = fileDetails.Extension;

@@ -19,6 +19,18 @@ namespace FileExplorer
             InitializeComponent();
         }
 
+        // DISABLE "X" BUTTON
+        private const int CP_NOCLOSE_BUTTON = 0x200;
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.ClassStyle = cp.ClassStyle | CP_NOCLOSE_BUTTON;
+                return cp;
+            }
+        }
+
         private void Startup_Load(object sender, EventArgs e)
         {
             timer1.Start();
